@@ -9,7 +9,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 
  - [Network traffic classification](#-network)
  - [Twitter spam detection](#-"twitter spam detection")
- - [Software Vulnerability detection](#-software Vulnerability detection)
+ - [Software Vulnerability detection](#-software-vulnerability-detection)
  - [Insider threat detection](#-insider threat detection)
  - [Tutorials](#-tutorials)
  - [Courses](#-courses)
