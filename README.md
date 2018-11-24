@@ -8,7 +8,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 ## Table of Contents
 
  - [Network traffic classification](#-network)
- - [Twitter spam detection](#-twitter spam detection)
+ - [Twitter spam detection](#-"twitter spam detection")
  - [Software Vulnerability detection](#-software Vulnerability detection)
  - [Insider threat detection](#-insider threat detection)
  - [Tutorials](#-tutorials)
