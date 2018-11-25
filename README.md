@@ -1,9 +1,7 @@
-# data-driven-cybersecurity
+# Data Driven Cyber Security at NSCLab
 
 
 
-
-A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
 ## Table of Contents
 
